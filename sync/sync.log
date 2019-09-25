@@ -1,0 +1,4040 @@
+2019-08-07 20:10   Start sync......
+sending incremental file list
+
+sent 1,775 bytes  received 22 bytes  1,198.00 bytes/sec
+total size is 1,171,208,077  speedup is 651,757.42
+2019-08-07 20:10   Finished sync...
+
+
+
+
+2019-08-07 20:19   Start sync......
+sending incremental file list
+./
+a.txt
+
+sent 1,849 bytes  received 48 bytes  1,264.67 bytes/sec
+total size is 1,171,208,077  speedup is 617,400.15
+2019-08-07 20:19   Finished sync...
+
+
+
+
+2019-08-07 20:20   Start sync......
+sending incremental file list
+./
+
+sent 1,783 bytes  received 29 bytes  1,208.00 bytes/sec
+total size is 1,171,208,077  speedup is 646,362.07
+2019-08-07 20:20   Finished sync...
+
+
+
+
+2019-08-08 12:00   Start sync......
+sending incremental file list
+30.113.151.8/
+30.113.151.8/30.113.151.8
+30.113.151.8/communication.log.2019-08-07-1.gz
+
+sent 39,117,578 bytes  received 25,003 bytes  6,021,935.54 bytes/sec
+total size is 1,395,022,034  speedup is 35.64
+2019-08-08 12:00   Finished sync...
+
+
+
+
+2019-08-08 13:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908080400.tar.gz
+30.113.151.11/communication.log.2019-08-07-1.gz
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908080400.tar.gz
+30.113.151.2/communication.log.2019-08-07-1.gz
+
+sent 83,795,546 bytes  received 112 bytes  6,207,085.78 bytes/sec
+total size is 1,483,707,428  speedup is 17.71
+2019-08-08 13:00   Finished sync...
+
+
+
+
+2019-08-08 14:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908060927.tar.gz
+30.113.151.1/30.113.151.1-201908070400.tar.gz
+
+sent 24,174,019 bytes  received 56,011 bytes  3,230,670.67 bytes/sec
+total size is 1,508,086,820  speedup is 62.24
+2019-08-08 14:00   Finished sync...
+
+
+
+
+2019-08-08 15:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908070400.tar.gz
+30.113.151.1/30.113.151.1-201908071622.tar.gz
+30.113.151.1/30.113.151.1-201908080400.tar.gz
+30.113.151.1/communication.log.2019-08-06-1.gz
+30.113.151.1/communication.log.2019-08-07-1.gz
+
+sent 73,713,236 bytes  received 29,968 bytes  5,462,459.56 bytes/sec
+total size is 1,587,655,609  speedup is 21.53
+2019-08-08 15:00   Finished sync...
+
+
+
+
+2019-08-08 16:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908080400.tar.gz
+30.113.151.4/communication.log.2019-08-07-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908080400.tar.gz
+30.113.151.9/communication.log.2019-08-07-1.gz
+
+sent 82,386,950 bytes  received 112 bytes  5,681,866.34 bytes/sec
+total size is 1,675,327,607  speedup is 20.33
+2019-08-08 16:00   Finished sync...
+
+
+
+
+2019-08-08 17:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908080400.tar.gz
+
+sent 12,848,621 bytes  received 48 bytes  3,671,048.29 bytes/sec
+total size is 1,688,418,423  speedup is 131.41
+2019-08-08 17:00   Finished sync...
+
+
+
+
+2019-08-08 18:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908080400.tar.gz
+30.113.151.10/communication.log.2019-08-07-1.gz
+
+sent 28,797,860 bytes  received 21,793 bytes  4,433,792.77 bytes/sec
+total size is 1,719,561,168  speedup is 59.67
+2019-08-08 18:00   Finished sync...
+
+
+
+
+2019-08-08 19:00   Start sync......
+sending incremental file list
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908071623.tar.gz
+30.113.151.5/30.113.151.5-201908080400.tar.gz
+30.113.151.5/communication.log.2019-08-07-1.gz
+
+sent 58,559,350 bytes  received 86 bytes  5,577,089.14 bytes/sec
+total size is 1,781,676,314  speedup is 30.43
+2019-08-08 19:00   Finished sync...
+
+
+
+
+2019-08-08 20:00   Start sync......
+sending incremental file list
+30.113.151.8/
+
+sent 2,534 bytes  received 25 bytes  5,118.00 bytes/sec
+total size is 1,758,304,052  speedup is 687,105.92
+2019-08-08 20:00   Finished sync...
+
+
+
+
+2019-08-08 21:00   Start sync......
+sending incremental file list
+30.113.151.8/
+
+sent 2,534 bytes  received 25 bytes  5,118.00 bytes/sec
+total size is 1,758,304,052  speedup is 687,105.92
+2019-08-08 21:00   Finished sync...
+
+
+
+
+2019-08-08 22:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908080400.tar.gz
+30.113.151.6/communication.log.2019-08-07-1.gz
+
+sent 41,499,766 bytes  received 67 bytes  5,533,311.07 bytes/sec
+total size is 1,802,390,302  speedup is 43.43
+2019-08-08 22:00   Finished sync...
+
+
+
+
+2019-08-08 23:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  1,735.33 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-08 23:00   Finished sync...
+
+
+
+
+2019-08-09 00:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  1,735.33 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 00:00   Finished sync...
+
+
+
+
+2019-08-09 01:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  1,735.33 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 01:00   Finished sync...
+
+
+
+
+2019-08-09 02:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  1,735.33 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 02:00   Finished sync...
+
+
+
+
+2019-08-09 03:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 03:00   Finished sync...
+
+
+
+
+2019-08-09 04:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 04:00   Finished sync...
+
+
+
+
+2019-08-09 05:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 05:00   Finished sync...
+
+
+
+
+2019-08-09 06:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 06:00   Finished sync...
+
+
+
+
+2019-08-09 07:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 07:00   Finished sync...
+
+
+
+
+2019-08-09 08:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 08:00   Finished sync...
+
+
+
+
+2019-08-09 09:00   Start sync......
+sending incremental file list
+
+sent 2,581 bytes  received 22 bytes  5,206.00 bytes/sec
+total size is 1,802,390,302  speedup is 692,428.08
+2019-08-09 09:00   Finished sync...
+
+
+
+
+2019-08-09 10:00   Start sync......
+sending incremental file list
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908080400.tar.gz
+30.113.151.7/30.113.151.7-201908090400.tar.gz
+30.113.151.7/communication.log.2019-08-07-1.gz
+30.113.151.7/communication.log.2019-08-08-1.gz
+
+sent 90,165,420 bytes  received 105 bytes  6,218,312.07 bytes/sec
+total size is 1,897,654,088  speedup is 21.05
+2019-08-09 10:00   Finished sync...
+
+
+
+
+2019-08-09 11:00   Start sync......
+sending incremental file list
+
+sent 2,686 bytes  received 22 bytes  1,805.33 bytes/sec
+total size is 1,897,654,088  speedup is 700,758.53
+2019-08-09 11:00   Finished sync...
+
+
+
+
+2019-08-09 12:00   Start sync......
+sending incremental file list
+
+sent 2,686 bytes  received 22 bytes  1,805.33 bytes/sec
+total size is 1,897,654,088  speedup is 700,758.53
+2019-08-09 12:00   Finished sync...
+
+
+
+
+2019-08-09 13:00   Start sync......
+sending incremental file list
+
+sent 2,686 bytes  received 22 bytes  1,805.33 bytes/sec
+total size is 1,897,654,088  speedup is 700,758.53
+2019-08-09 13:00   Finished sync...
+
+
+
+
+2019-08-09 14:00   Start sync......
+sending incremental file list
+
+sent 2,686 bytes  received 22 bytes  1,805.33 bytes/sec
+total size is 1,897,654,088  speedup is 700,758.53
+2019-08-09 14:00   Finished sync...
+
+
+
+
+2019-08-09 15:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908090400.tar.gz
+30.113.151.2/communication.log.2019-08-08-1.gz
+
+sent 67,377,636 bytes  received 67 bytes  5,858,930.70 bytes/sec
+total size is 1,967,920,204  speedup is 29.21
+2019-08-09 15:00   Finished sync...
+
+
+
+
+2019-08-09 16:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908090400.tar.gz
+30.113.151.1/communication.log.2019-08-08-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908090015.tar.gz
+30.113.151.5/30.113.151.5-201908090400.tar.gz
+30.113.151.5/communication.log.2019-08-08-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908090400.tar.gz
+30.113.151.9/communication.log.2019-08-08-1.gz
+
+sent 198,780,657 bytes  received 176 bytes  6,310,502.63 bytes/sec
+total size is 2,175,686,969  speedup is 10.95
+2019-08-09 16:00   Finished sync...
+
+
+
+
+2019-08-09 17:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908090400.tar.gz
+30.113.151.4/communication.log.2019-08-08-1.gz
+
+sent 61,473,699 bytes  received 67 bytes  5,854,644.38 bytes/sec
+total size is 2,239,817,185  speedup is 36.44
+2019-08-09 17:00   Finished sync...
+
+
+
+
+2019-08-09 18:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908090400.tar.gz
+
+sent 8,216,528 bytes  received 48 bytes  3,286,630.40 bytes/sec
+total size is 2,248,189,409  speedup is 273.62
+2019-08-09 18:00   Finished sync...
+
+
+
+
+2019-08-09 19:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908090400.tar.gz
+30.113.151.6/communication.log.2019-08-08-1.gz
+
+sent 59,651,857 bytes  received 17,461 bytes  5,682,792.19 bytes/sec
+total size is 2,310,440,826  speedup is 38.72
+2019-08-09 19:00   Finished sync...
+
+
+
+
+2019-08-09 20:00   Start sync......
+sending incremental file list
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908081938.tar.gz
+30.113.151.8/30.113.151.8-201908090400.tar.gz
+
+sent 10,687,949 bytes  received 67 bytes  3,053,718.86 bytes/sec
+total size is 2,321,240,540  speedup is 217.18
+2019-08-09 20:00   Finished sync...
+
+
+
+
+2019-08-09 21:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908090400.tar.gz
+30.113.151.10/communication.log.2019-08-08-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908090400.tar.gz
+30.113.151.8/communication.log.2019-08-07-1.gz
+30.113.151.8/communication.log.2019-08-08-1.gz
+
+sent 83,842,916 bytes  received 45,209 bytes  5,785,387.93 bytes/sec
+total size is 2,408,667,311  speedup is 28.71
+2019-08-09 21:00   Finished sync...
+
+
+
+
+2019-08-09 22:00   Start sync......
+sending incremental file list
+30.113.151.10/communication.log.2019-08-08-1.gz
+
+sent 8,842,016 bytes  received 20,169 bytes  3,544,874.00 bytes/sec
+total size is 2,419,086,211  speedup is 272.97
+2019-08-09 22:00   Finished sync...
+
+
+
+
+2019-08-09 23:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  6,388.00 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-09 23:00   Finished sync...
+
+
+
+
+2019-08-10 00:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  6,388.00 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 00:00   Finished sync...
+
+
+
+
+2019-08-10 01:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  6,388.00 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 01:00   Finished sync...
+
+
+
+
+2019-08-10 02:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 02:00   Finished sync...
+
+
+
+
+2019-08-10 03:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 03:00   Finished sync...
+
+
+
+
+2019-08-10 04:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 04:00   Finished sync...
+
+
+
+
+2019-08-10 05:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 05:00   Finished sync...
+
+
+
+
+2019-08-10 06:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 06:00   Finished sync...
+
+
+
+
+2019-08-10 07:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 07:00   Finished sync...
+
+
+
+
+2019-08-10 08:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 08:00   Finished sync...
+
+
+
+
+2019-08-10 09:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 09:00   Finished sync...
+
+
+
+
+2019-08-10 10:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 10:00   Finished sync...
+
+
+
+
+2019-08-10 11:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 11:00   Finished sync...
+
+
+
+
+2019-08-10 12:00   Start sync......
+sending incremental file list
+
+sent 3,172 bytes  received 22 bytes  2,129.33 bytes/sec
+total size is 2,419,086,211  speedup is 757,384.54
+2019-08-10 12:00   Finished sync...
+
+
+
+
+2019-08-10 13:00   Start sync......
+sending incremental file list
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908100400.tar.gz
+30.113.151.5/communication.log.2019-08-09-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908100400.tar.gz
+30.113.151.7/30.113.151.7-201908101056.tar.gz
+30.113.151.7/communication.log.2019-08-09-1.gz
+
+sent 126,152,932 bytes  received 131 bytes  5,867,584.33 bytes/sec
+total size is 2,550,225,161  speedup is 20.22
+2019-08-10 13:00   Finished sync...
+
+
+
+
+2019-08-10 14:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908100400.tar.gz
+30.113.151.10/communication.log.2019-08-09-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908100400.tar.gz
+30.113.151.6/communication.log.2019-08-09-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908100400.tar.gz
+30.113.151.9/communication.log.2019-08-09-1.gz
+
+sent 204,946,543 bytes  received 157 bytes  6,306,052.31 bytes/sec
+total size is 2,763,556,849  speedup is 13.48
+2019-08-10 14:00   Finished sync...
+
+
+
+
+2019-08-10 15:00   Start sync......
+sending incremental file list
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908100400.tar.gz
+
+sent 7,236,214 bytes  received 48 bytes  2,894,504.80 bytes/sec
+total size is 2,770,880,497  speedup is 382.92
+2019-08-10 15:00   Finished sync...
+
+
+
+
+2019-08-10 16:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908100400.tar.gz
+30.113.151.1/communication.log.2019-08-09-1.gz
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908081943.tar.gz
+30.113.151.11/30.113.151.11-201908090400.tar.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908100400.tar.gz
+30.113.151.8/communication.log.2019-08-09-1.gz
+
+sent 174,346,599 bytes  received 16,411 bytes  6,340,473.09 bytes/sec
+total size is 2,949,831,622  speedup is 16.92
+2019-08-10 16:00   Finished sync...
+
+
+
+
+2019-08-10 17:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908090400.tar.gz
+30.113.151.11/30.113.151.11-201908100400.tar.gz
+30.113.151.11/communication.log.2019-08-08-1.gz
+30.113.151.11/communication.log.2019-08-09-1.gz
+
+sent 80,782,468 bytes  received 23,031 bytes  5,572,793.03 bytes/sec
+total size is 3,036,714,240  speedup is 37.58
+2019-08-10 17:00   Finished sync...
+
+
+
+
+2019-08-10 18:00   Start sync......
+sending incremental file list
+
+sent 3,702 bytes  received 22 bytes  2,482.67 bytes/sec
+total size is 3,036,714,240  speedup is 815,444.21
+2019-08-10 18:00   Finished sync...
+
+
+
+
+2019-08-10 19:00   Start sync......
+sending incremental file list
+
+sent 3,702 bytes  received 22 bytes  2,482.67 bytes/sec
+total size is 3,036,714,240  speedup is 815,444.21
+2019-08-10 19:00   Finished sync...
+
+
+
+
+2019-08-10 20:00   Start sync......
+sending incremental file list
+
+sent 3,702 bytes  received 22 bytes  2,482.67 bytes/sec
+total size is 3,036,714,240  speedup is 815,444.21
+2019-08-10 20:00   Finished sync...
+
+
+
+
+2019-08-10 21:00   Start sync......
+sending incremental file list
+
+sent 3,702 bytes  received 22 bytes  2,482.67 bytes/sec
+total size is 3,036,714,240  speedup is 815,444.21
+2019-08-10 21:00   Finished sync...
+
+
+
+
+2019-08-10 22:00   Start sync......
+sending incremental file list
+
+sent 3,702 bytes  received 22 bytes  2,482.67 bytes/sec
+total size is 3,036,714,240  speedup is 815,444.21
+2019-08-10 22:00   Finished sync...
+
+
+
+
+2019-08-10 23:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908100400.tar.gz
+30.113.151.4/communication.log.2019-08-09-1.gz
+
+sent 60,821,584 bytes  received 67 bytes  5,288,839.22 bytes/sec
+total size is 3,100,013,697  speedup is 50.97
+2019-08-10 23:00   Finished sync...
+
+
+
+
+2019-08-11 00:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 00:00   Finished sync...
+
+
+
+
+2019-08-11 01:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 01:00   Finished sync...
+
+
+
+
+2019-08-11 02:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 02:00   Finished sync...
+
+
+
+
+2019-08-11 03:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 03:00   Finished sync...
+
+
+
+
+2019-08-11 04:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 04:00   Finished sync...
+
+
+
+
+2019-08-11 05:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 05:00   Finished sync...
+
+
+
+
+2019-08-11 06:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 06:00   Finished sync...
+
+
+
+
+2019-08-11 07:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 07:00   Finished sync...
+
+
+
+
+2019-08-11 08:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 08:00   Finished sync...
+
+
+
+
+2019-08-11 09:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 09:00   Finished sync...
+
+
+
+
+2019-08-11 10:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  7,554.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 10:00   Finished sync...
+
+
+
+
+2019-08-11 11:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  7,554.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 11:00   Finished sync...
+
+
+
+
+2019-08-11 12:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  7,554.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 12:00   Finished sync...
+
+
+
+
+2019-08-11 13:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 13:00   Finished sync...
+
+
+
+
+2019-08-11 14:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  7,554.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 14:00   Finished sync...
+
+
+
+
+2019-08-11 15:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 15:00   Finished sync...
+
+
+
+
+2019-08-11 16:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 16:00   Finished sync...
+
+
+
+
+2019-08-11 17:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 17:00   Finished sync...
+
+
+
+
+2019-08-11 18:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 18:00   Finished sync...
+
+
+
+
+2019-08-11 19:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 19:00   Finished sync...
+
+
+
+
+2019-08-11 20:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 20:00   Finished sync...
+
+
+
+
+2019-08-11 21:00   Start sync......
+sending incremental file list
+
+sent 3,755 bytes  received 22 bytes  2,518.00 bytes/sec
+total size is 3,100,013,697  speedup is 820,760.84
+2019-08-11 21:00   Finished sync...
+
+
+
+
+2019-08-11 22:00   Start sync......
+sending incremental file list
+./
+30.113.151.3
+
+sent 25,998,613 bytes  received 48 bytes  5,777,480.22 bytes/sec
+total size is 3,126,408,321  speedup is 120.25
+2019-08-11 22:00   Finished sync...
+
+
+
+
+2019-08-11 23:00   Start sync......
+sending incremental file list
+./
+30.113.151.14
+30.113.151.3
+
+sent 40,330,077 bytes  received 30,979 bytes  4,748,359.53 bytes/sec
+total size is 3,143,993,021  speedup is 77.90
+2019-08-11 23:00   Finished sync...
+
+
+
+
+2019-08-12 00:00   Start sync......
+sending incremental file list
+./
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908110400.tar.gz
+30.113.151.1/communication.log.2019-08-10-1.gz
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908110400.tar.gz
+30.113.151.10/communication.log.2019-08-10-1.gz
+30.113.151.13/
+30.113.151.14/
+30.113.151.15/
+30.113.151.17/
+30.113.151.18/
+30.113.151.19/
+30.113.151.20/
+30.113.151.21/
+30.113.151.22/
+30.113.151.3/
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908110400.tar.gz
+
+sent 165,014,034 bytes  received 185 bytes  6,471,145.84 bytes/sec
+total size is 3,269,156,619  speedup is 19.81
+2019-08-12 00:00   Finished sync...
+
+
+
+
+2019-08-12 01:00   Start sync......
+sending incremental file list
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908110400.tar.gz
+30.113.151.21/communication.log.2019-08-10-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908110400.tar.gz
+30.113.151.4/communication.log.2019-08-10-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908102315.tar.gz
+30.113.151.5/30.113.151.5-201908110400.tar.gz
+30.113.151.5/communication.log.2019-08-10-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908110400.tar.gz
+30.113.151.9/communication.log.2019-08-10-1.gz
+
+sent 203,105,611 bytes  received 32,739 bytes  6,660,273.77 bytes/sec
+total size is 3,481,724,096  speedup is 17.14
+2019-08-12 01:00   Finished sync...
+
+
+
+
+2019-08-12 02:00   Start sync......
+sending incremental file list
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908110400.tar.gz
+30.113.151.20/communication.log.2019-08-10-1.gz
+30.113.151.4/communication.log.2019-08-10-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8
+30.113.151.8/30.113.151.8-201908110310.tar.gz
+30.113.151.8/30.113.151.8-201908110400.tar.gz
+30.113.151.8/communication.log.2019-08-10-1.gz
+
+sent 126,082,146 bytes  received 22,365 bytes  6,466,898.00 bytes/sec
+total size is 3,614,749,696  speedup is 28.66
+2019-08-12 02:00   Finished sync...
+
+
+
+
+2019-08-12 03:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908110400.tar.gz
+30.113.151.13/communication.log.2019-08-10-1.gz
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908110400.tar.gz
+30.113.151.15/communication.log.2019-08-10-1.gz
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908110400.tar.gz
+30.113.151.19/communication.log.2019-08-10-1.gz
+
+sent 149,845,252 bytes  received 167 bytes  6,659,796.40 bytes/sec
+total size is 3,771,485,487  speedup is 25.17
+2019-08-12 03:00   Finished sync...
+
+
+
+
+2019-08-12 04:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908100400.tar.gz
+
+sent 12,690,598 bytes  received 58 bytes  3,625,901.71 bytes/sec
+total size is 3,784,379,695  speedup is 298.20
+2019-08-12 04:00   Finished sync...
+
+
+
+
+2019-08-12 05:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908100400.tar.gz
+30.113.151.2/30.113.151.2-201908102037.tar.gz
+30.113.151.2/30.113.151.2-201908102233.tar.gz
+30.113.151.2/30.113.151.2-201908102247.tar.gz
+30.113.151.2/30.113.151.2-201908111601.tar.gz
+30.113.151.2/communication.log.2019-08-09-1.gz
+
+sent 90,303,639 bytes  received 21,741 bytes  6,690,768.89 bytes/sec
+total size is 3,877,890,430  speedup is 42.93
+2019-08-12 05:00   Finished sync...
+
+
+
+
+2019-08-12 06:00   Start sync......
+sending incremental file list
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908120400.tar.gz
+30.113.151.21/communication.log.2019-08-11-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908120400.tar.gz
+30.113.151.4/communication.log.2019-08-11-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908120400.tar.gz
+30.113.151.8/communication.log.2019-08-11-1.gz
+
+sent 178,003,421 bytes  received 167 bytes  6,717,116.53 bytes/sec
+total size is 4,064,712,405  speedup is 22.84
+2019-08-12 06:00   Finished sync...
+
+
+
+
+2019-08-12 07:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908110400.tar.gz
+30.113.151.6/30.113.151.6-201908120400.tar.gz
+30.113.151.6/communication.log.2019-08-10-1.gz
+
+sent 112,181,661 bytes  received 96 bytes  6,798,894.36 bytes/sec
+total size is 4,178,656,319  speedup is 37.25
+2019-08-12 07:00   Finished sync...
+
+
+
+
+2019-08-12 08:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/communication.log.2019-08-10-1.gz
+30.113.151.6/communication.log.2019-08-11-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908120400.tar.gz
+
+sent 71,336,338 bytes  received 25,153 bytes  6,205,347.04 bytes/sec
+total size is 4,254,189,883  speedup is 59.61
+2019-08-12 08:00   Finished sync...
+
+
+
+
+2019-08-12 09:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908110400.tar.gz
+30.113.151.11/30.113.151.11-201908120400.tar.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908120400.tar.gz
+30.113.151.20/communication.log.2019-08-11-1.gz
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908110400.tar.gz
+30.113.151.22/30.113.151.22-201908120400.tar.gz
+30.113.151.22/communication.log.2019-08-10-1.gz
+30.113.151.22/communication.log.2019-08-11-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908120400.tar.gz
+30.113.151.5/communication.log.2019-08-11-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908120400.tar.gz
+30.113.151.9/communication.log.2019-08-11-1.gz
+
+sent 314,460,771 bytes  received 48,896 bytes  6,763,648.75 bytes/sec
+total size is 4,583,279,403  speedup is 14.57
+2019-08-12 09:00   Finished sync...
+
+
+
+
+2019-08-12 10:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908120400.tar.gz
+30.113.151.11/communication.log.2019-08-10-1.gz
+30.113.151.11/communication.log.2019-08-11-1.gz
+30.113.151.14/
+30.113.151.14/30.113.151.14
+30.113.151.14/communication.log.2019-08-11-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908110400.tar.gz
+30.113.151.7/30.113.151.7-201908112105.tar.gz
+30.113.151.7/30.113.151.7-201908112237.tar.gz
+30.113.151.7/30.113.151.7-201908120400.tar.gz
+30.113.151.7/30.113.151.7-201908120612.tar.gz
+30.113.151.7/communication.log.2019-08-10-1.gz
+30.113.151.7/communication.log.2019-08-11-1.gz
+
+sent 218,890,857 bytes  received 42,393 bytes  6,535,320.90 bytes/sec
+total size is 4,814,909,189  speedup is 21.99
+2019-08-12 10:00   Finished sync...
+
+
+
+
+2019-08-12 11:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908120400.tar.gz
+30.113.151.15/communication.log.2019-08-11-1.gz
+
+sent 65,857,995 bytes  received 77 bytes  5,726,788.87 bytes/sec
+total size is 4,883,582,574  speedup is 74.15
+2019-08-12 11:00   Finished sync...
+
+
+
+
+2019-08-12 12:00   Start sync......
+sending incremental file list
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908120400.tar.gz
+30.113.151.3/communication.log.2019-08-11-1.gz
+
+sent 62,915,760 bytes  received 77 bytes  6,622,719.68 bytes/sec
+total size is 4,949,708,303  speedup is 78.67
+2019-08-12 12:00   Finished sync...
+
+
+
+
+2019-08-12 13:00   Start sync......
+sending incremental file list
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908110400.tar.gz
+30.113.151.18/30.113.151.18-201908120400.tar.gz
+30.113.151.18/communication.log.2019-08-10-1.gz
+30.113.151.18/communication.log.2019-08-11-1.gz
+
+sent 114,086,149 bytes  received 115 bytes  6,166,825.08 bytes/sec
+total size is 5,069,201,561  speedup is 44.43
+2019-08-12 13:00   Finished sync...
+
+
+
+
+2019-08-12 14:00   Start sync......
+sending incremental file list
+
+sent 6,252 bytes  received 32 bytes  4,189.33 bytes/sec
+total size is 5,069,201,561  speedup is 806,683.89
+2019-08-12 14:00   Finished sync...
+
+
+
+
+2019-08-12 15:00   Start sync......
+sending incremental file list
+
+sent 6,252 bytes  received 32 bytes  4,189.33 bytes/sec
+total size is 5,069,201,561  speedup is 806,683.89
+2019-08-12 15:00   Finished sync...
+
+
+
+
+2019-08-12 16:00   Start sync......
+sending incremental file list
+
+sent 6,252 bytes  received 32 bytes  4,189.33 bytes/sec
+total size is 5,069,201,561  speedup is 806,683.89
+2019-08-12 16:00   Finished sync...
+
+
+
+
+2019-08-12 17:00   Start sync......
+sending incremental file list
+
+sent 6,252 bytes  received 32 bytes  12,568.00 bytes/sec
+total size is 5,069,201,561  speedup is 806,683.89
+2019-08-12 17:00   Finished sync...
+
+
+
+
+2019-08-12 18:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908120400.tar.gz
+30.113.151.13/communication.log.2019-08-11-1.gz
+
+sent 64,018,420 bytes  received 77 bytes  6,096,999.71 bytes/sec
+total size is 5,136,126,513  speedup is 80.23
+2019-08-12 18:00   Finished sync...
+
+
+
+
+2019-08-12 19:00   Start sync......
+sending incremental file list
+
+sent 6,304 bytes  received 32 bytes  4,224.00 bytes/sec
+total size is 5,136,126,513  speedup is 810,626.03
+2019-08-12 19:00   Finished sync...
+
+
+
+
+2019-08-12 20:00   Start sync......
+sending incremental file list
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908120400.tar.gz
+30.113.151.19/communication.log.2019-08-11-1.gz
+
+sent 62,950,805 bytes  received 77 bytes  5,995,322.10 bytes/sec
+total size is 5,202,165,400  speedup is 82.64
+2019-08-12 20:00   Finished sync...
+
+
+
+
+2019-08-12 21:00   Start sync......
+sending incremental file list
+
+sent 6,355 bytes  received 32 bytes  1,824.86 bytes/sec
+total size is 5,202,165,400  speedup is 814,492.78
+2019-08-12 21:00   Finished sync...
+
+
+
+
+2019-08-12 22:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908120400.tar.gz
+30.113.151.1/communication.log.2019-08-11-1.gz
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908120400.tar.gz
+30.113.151.10/communication.log.2019-08-11-1.gz
+
+sent 126,409,726 bytes  received 122 bytes  6,482,556.31 bytes/sec
+total size is 5,335,154,936  speedup is 42.21
+2019-08-12 22:00   Finished sync...
+
+
+
+
+2019-08-12 23:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  2,596.40 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-12 23:00   Finished sync...
+
+
+
+
+2019-08-13 00:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  12,982.00 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-13 00:00   Finished sync...
+
+
+
+
+2019-08-13 01:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  4,327.33 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-13 01:00   Finished sync...
+
+
+
+
+2019-08-13 02:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  4,327.33 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-13 02:00   Finished sync...
+
+
+
+
+2019-08-13 03:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  4,327.33 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-13 03:00   Finished sync...
+
+
+
+
+2019-08-13 04:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  4,327.33 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-13 04:00   Finished sync...
+
+
+
+
+2019-08-13 05:00   Start sync......
+sending incremental file list
+
+sent 6,459 bytes  received 32 bytes  4,327.33 bytes/sec
+total size is 5,335,154,936  speedup is 821,931.13
+2019-08-13 05:00   Finished sync...
+
+
+
+
+2019-08-13 06:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908130400.tar.gz
+30.113.151.2/communication.log.2019-08-12-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908130400.tar.gz
+30.113.151.7/communication.log.2019-08-12-1.gz
+
+sent 108,542,518 bytes  received 122 bytes  6,578,341.82 bytes/sec
+total size is 5,449,413,524  speedup is 50.21
+2019-08-13 06:00   Finished sync...
+
+
+
+
+2019-08-13 07:00   Start sync......
+sending incremental file list
+
+sent 6,564 bytes  received 32 bytes  4,397.33 bytes/sec
+total size is 5,449,413,524  speedup is 826,169.42
+2019-08-13 07:00   Finished sync...
+
+
+
+
+2019-08-13 08:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908130400.tar.gz
+30.113.151.1/communication.log.2019-08-12-1.gz
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908130400.tar.gz
+30.113.151.3/communication.log.2019-08-12-1.gz
+
+sent 125,362,619 bytes  received 122 bytes  6,428,858.51 bytes/sec
+total size is 5,580,771,108  speedup is 44.52
+2019-08-13 08:00   Finished sync...
+
+
+
+
+2019-08-13 09:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908130400.tar.gz
+30.113.151.4/communication.log.2019-08-12-1.gz
+
+sent 55,576,507 bytes  received 77 bytes  5,850,166.74 bytes/sec
+total size is 5,639,329,975  speedup is 101.47
+2019-08-13 09:00   Finished sync...
+
+
+
+
+2019-08-13 10:00   Start sync......
+sending incremental file list
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908130400.tar.gz
+30.113.151.9/communication.log.2019-08-12-1.gz
+
+sent 62,418,693 bytes  received 77 bytes  6,570,396.84 bytes/sec
+total size is 5,705,197,181  speedup is 91.40
+2019-08-13 10:00   Finished sync...
+
+
+
+
+2019-08-13 11:00   Start sync......
+sending incremental file list
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908130400.tar.gz
+30.113.151.8/communication.log.2019-08-12-1.gz
+
+sent 53,263,247 bytes  received 77 bytes  5,606,665.68 bytes/sec
+total size is 5,761,444,823  speedup is 108.17
+2019-08-13 11:00   Finished sync...
+
+
+
+
+2019-08-13 12:00   Start sync......
+sending incremental file list
+
+sent 6,822 bytes  received 32 bytes  4,569.33 bytes/sec
+total size is 5,761,444,823  speedup is 840,595.98
+2019-08-13 12:00   Finished sync...
+
+
+
+
+2019-08-13 13:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908130400.tar.gz
+30.113.151.11/communication.log.2019-08-12-1.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908130400.tar.gz
+30.113.151.20/communication.log.2019-08-12-1.gz
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908130400.tar.gz
+30.113.151.21/communication.log.2019-08-12-1.gz
+
+sent 179,285,163 bytes  received 167 bytes  6,519,466.55 bytes/sec
+total size is 5,949,916,381  speedup is 33.19
+2019-08-13 13:00   Finished sync...
+
+
+
+
+2019-08-13 14:00   Start sync......
+sending incremental file list
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908130400.tar.gz
+30.113.151.14/communication.log.2019-08-12-1.gz
+
+sent 48,853,212 bytes  received 77 bytes  5,747,445.76 bytes/sec
+total size is 6,001,430,526  speedup is 122.85
+2019-08-13 14:00   Finished sync...
+
+
+
+
+2019-08-13 15:00   Start sync......
+sending incremental file list
+
+sent 7,033 bytes  received 32 bytes  4,710.00 bytes/sec
+total size is 6,001,430,526  speedup is 849,459.38
+2019-08-13 15:00   Finished sync...
+
+
+
+
+2019-08-13 16:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908130400.tar.gz
+30.113.151.13/communication.log.2019-08-12-1.gz
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908130400.tar.gz
+30.113.151.18/communication.log.2019-08-12-1.gz
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908130400.tar.gz
+30.113.151.22/communication.log.2019-08-12-1.gz
+
+sent 185,348,144 bytes  received 167 bytes  6,503,449.51 bytes/sec
+total size is 6,196,477,736  speedup is 33.43
+2019-08-13 16:00   Finished sync...
+
+
+
+
+2019-08-13 17:00   Start sync......
+sending incremental file list
+
+sent 7,187 bytes  received 32 bytes  4,812.67 bytes/sec
+total size is 6,196,477,736  speedup is 858,356.80
+2019-08-13 17:00   Finished sync...
+
+
+
+
+2019-08-13 18:00   Start sync......
+sending incremental file list
+
+sent 7,187 bytes  received 32 bytes  4,812.67 bytes/sec
+total size is 6,196,477,736  speedup is 858,356.80
+2019-08-13 18:00   Finished sync...
+
+
+
+
+2019-08-13 19:00   Start sync......
+sending incremental file list
+
+sent 7,187 bytes  received 32 bytes  4,812.67 bytes/sec
+total size is 6,196,477,736  speedup is 858,356.80
+2019-08-13 19:00   Finished sync...
+
+
+
+
+2019-08-13 20:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908130400.tar.gz
+
+sent 44,297,680 bytes  received 58 bytes  5,211,498.59 bytes/sec
+total size is 6,241,615,656  speedup is 140.90
+2019-08-13 20:00   Finished sync...
+
+
+
+
+2019-08-13 21:00   Start sync......
+sending incremental file list
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908130400.tar.gz
+30.113.151.5/communication.log.2019-08-12-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908130400.tar.gz
+30.113.151.6/communication.log.2019-08-12-1.gz
+
+sent 73,205,420 bytes  received 47,197 bytes  5,860,209.36 bytes/sec
+total size is 6,319,997,183  speedup is 86.28
+2019-08-13 21:00   Finished sync...
+
+
+
+
+2019-08-13 22:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908130400.tar.gz
+30.113.151.10/30.113.151.10-201908131318.tar.gz
+30.113.151.10/communication.log.2019-08-12-1.gz
+
+sent 78,802,237 bytes  received 96 bytes  6,304,186.64 bytes/sec
+total size is 6,402,376,400  speedup is 81.25
+2019-08-13 22:00   Finished sync...
+
+
+
+
+2019-08-13 23:00   Start sync......
+sending incremental file list
+
+sent 7,369 bytes  received 32 bytes  4,934.00 bytes/sec
+total size is 6,402,376,400  speedup is 865,069.10
+2019-08-13 23:00   Finished sync...
+
+
+
+
+2019-08-14 00:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908130400.tar.gz
+
+sent 25,948,239 bytes  received 58 bytes  4,717,872.18 bytes/sec
+total size is 6,428,836,560  speedup is 247.76
+2019-08-14 00:00   Finished sync...
+
+
+
+
+2019-08-14 01:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908130400.tar.gz
+30.113.151.15/communication.log.2019-08-12-1.gz
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908130400.tar.gz
+30.113.151.19/communication.log.2019-08-12-1.gz
+
+sent 100,607,215 bytes  received 31,034 bytes  5,160,935.85 bytes/sec
+total size is 6,534,948,438  speedup is 64.94
+2019-08-14 01:00   Finished sync...
+
+
+
+
+2019-08-14 02:00   Start sync......
+sending incremental file list
+
+sent 7,472 bytes  received 32 bytes  5,002.67 bytes/sec
+total size is 6,534,948,438  speedup is 870,861.00
+2019-08-14 02:00   Finished sync...
+
+
+
+
+2019-08-14 03:00   Start sync......
+sending incremental file list
+
+sent 7,472 bytes  received 32 bytes  5,002.67 bytes/sec
+total size is 6,534,948,438  speedup is 870,861.00
+2019-08-14 03:00   Finished sync...
+
+
+
+
+2019-08-14 04:00   Start sync......
+sending incremental file list
+
+sent 7,472 bytes  received 32 bytes  5,002.67 bytes/sec
+total size is 6,534,948,438  speedup is 870,861.00
+2019-08-14 04:00   Finished sync...
+
+
+
+
+2019-08-14 05:00   Start sync......
+sending incremental file list
+
+sent 7,472 bytes  received 32 bytes  5,002.67 bytes/sec
+total size is 6,534,948,438  speedup is 870,861.00
+2019-08-14 05:00   Finished sync...
+
+
+
+
+2019-08-14 06:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908140400.tar.gz
+30.113.151.11/communication.log.2019-08-13-1.gz
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908140400.tar.gz
+30.113.151.14/communication.log.2019-08-13-1.gz
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908140400.tar.gz
+30.113.151.3/communication.log.2019-08-13-1.gz
+30.113.151.3/communication.log.2019-08-13-2.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908140400.tar.gz
+30.113.151.7/communication.log.2019-08-13-1.gz
+
+sent 216,174,387 bytes  received 231 bytes  7,087,692.39 bytes/sec
+total size is 6,763,214,872  speedup is 31.29
+2019-08-14 06:00   Finished sync...
+
+
+
+
+2019-08-14 07:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908140400.tar.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908140400.tar.gz
+30.113.151.8/communication.log.2019-08-13-1.gz
+
+sent 64,561,421 bytes  received 103 bytes  6,148,716.57 bytes/sec
+total size is 6,830,946,495  speedup is 105.81
+2019-08-14 07:00   Finished sync...
+
+
+
+
+2019-08-14 08:00   Start sync......
+sending incremental file list
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908140400.tar.gz
+30.113.151.6/communication.log.2019-08-13-1.gz
+
+sent 57,555,911 bytes  received 14,057 bytes  6,059,996.63 bytes/sec
+total size is 6,891,544,844  speedup is 119.71
+2019-08-14 08:00   Finished sync...
+
+
+
+
+2019-08-14 09:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908140400.tar.gz
+30.113.151.4/communication.log.2019-08-13-1.gz
+
+sent 61,284,081 bytes  received 77 bytes  5,836,586.48 bytes/sec
+total size is 6,956,179,466  speedup is 113.51
+2019-08-14 09:00   Finished sync...
+
+
+
+
+2019-08-14 10:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908140400.tar.gz
+30.113.151.10/communication.log.2019-08-13-1.gz
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908130536.tar.gz
+30.113.151.2/30.113.151.2-201908140400.tar.gz
+30.113.151.2/communication.log.2019-08-13-1.gz
+
+sent 104,343,166 bytes  received 141 bytes  6,731,826.26 bytes/sec
+total size is 7,065,146,365  speedup is 67.71
+2019-08-14 10:00   Finished sync...
+
+
+
+
+2019-08-14 11:00   Start sync......
+sending incremental file list
+30.113.151.10/communication.log.2019-08-13-1.gz
+
+sent 5,388,115 bytes  received 23,497 bytes  2,164,644.80 bytes/sec
+total size is 7,071,328,788  speedup is 1,306.70
+2019-08-14 11:00   Finished sync...
+
+
+
+
+2019-08-14 12:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908140400.tar.gz
+30.113.151.15/communication.log.2019-08-13-1.gz
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908140400.tar.gz
+30.113.151.18/communication.log.2019-08-13-1.gz
+
+sent 127,655,094 bytes  received 122 bytes  6,546,421.33 bytes/sec
+total size is 7,204,993,657  speedup is 56.44
+2019-08-14 12:00   Finished sync...
+
+
+
+
+2019-08-14 13:00   Start sync......
+sending incremental file list
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908140400.tar.gz
+30.113.151.9/communication.log.2019-08-13-1.gz
+
+sent 71,080,163 bytes  received 79 bytes  6,180,890.61 bytes/sec
+total size is 7,279,437,446  speedup is 102.41
+2019-08-14 13:00   Finished sync...
+
+
+
+
+2019-08-14 14:00   Start sync......
+sending incremental file list
+
+sent 8,139 bytes  received 32 bytes  5,447.33 bytes/sec
+total size is 7,279,437,446  speedup is 890,886.97
+2019-08-14 14:00   Finished sync...
+
+
+
+
+2019-08-14 15:00   Start sync......
+sending incremental file list
+
+sent 8,139 bytes  received 32 bytes  5,447.33 bytes/sec
+total size is 7,279,437,446  speedup is 890,886.97
+2019-08-14 15:00   Finished sync...
+
+
+
+
+2019-08-14 16:00   Start sync......
+sending incremental file list
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908140400.tar.gz
+30.113.151.22/communication.log.2019-08-13-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908140400.tar.gz
+30.113.151.5/communication.log.2019-08-13-1.gz
+
+sent 120,969,451 bytes  received 122 bytes  6,538,895.84 bytes/sec
+total size is 7,405,873,165  speedup is 61.22
+2019-08-14 16:00   Finished sync...
+
+
+
+
+2019-08-14 17:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908140400.tar.gz
+30.113.151.1/communication.log.2019-08-13-1.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908140400.tar.gz
+
+sent 93,230,861 bytes  received 103 bytes  6,429,721.66 bytes/sec
+total size is 7,502,431,224  speedup is 80.47
+2019-08-14 17:00   Finished sync...
+
+
+
+
+2019-08-14 18:00   Start sync......
+sending incremental file list
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908140400.tar.gz
+30.113.151.20/communication.log.2019-08-13-1.gz
+
+sent 40,370,317 bytes  received 29,327 bytes  5,386,619.20 bytes/sec
+total size is 7,546,259,284  speedup is 186.79
+2019-08-14 18:00   Finished sync...
+
+
+
+
+2019-08-14 19:00   Start sync......
+sending incremental file list
+
+sent 8,341 bytes  received 32 bytes  5,582.00 bytes/sec
+total size is 7,546,259,284  speedup is 901,261.11
+2019-08-14 19:00   Finished sync...
+
+
+
+
+2019-08-14 20:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908140400.tar.gz
+30.113.151.13/communication.log.2019-08-13-1.gz
+
+sent 63,291,943 bytes  received 77 bytes  6,027,811.43 bytes/sec
+total size is 7,612,595,508  speedup is 120.28
+2019-08-14 20:00   Finished sync...
+
+
+
+
+2019-08-14 21:00   Start sync......
+sending incremental file list
+
+sent 8,393 bytes  received 32 bytes  5,616.67 bytes/sec
+total size is 7,612,595,508  speedup is 903,572.17
+2019-08-14 21:00   Finished sync...
+
+
+
+
+2019-08-14 22:00   Start sync......
+sending incremental file list
+
+sent 8,393 bytes  received 32 bytes  5,616.67 bytes/sec
+total size is 7,612,595,508  speedup is 903,572.17
+2019-08-14 22:00   Finished sync...
+
+
+
+
+2019-08-14 23:00   Start sync......
+sending incremental file list
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908140400.tar.gz
+30.113.151.19/communication.log.2019-08-13-1.gz
+
+sent 64,596,830 bytes  received 77 bytes  3,491,724.70 bytes/sec
+total size is 7,680,185,848  speedup is 118.89
+2019-08-14 23:00   Finished sync...
+
+
+
+
+2019-08-15 00:00   Start sync......
+sending incremental file list
+
+sent 8,443 bytes  received 32 bytes  5,650.00 bytes/sec
+total size is 7,680,185,848  speedup is 906,216.62
+2019-08-15 00:00   Finished sync...
+
+
+
+
+2019-08-15 01:00   Start sync......
+sending incremental file list
+
+sent 8,443 bytes  received 32 bytes  16,950.00 bytes/sec
+total size is 7,680,185,848  speedup is 906,216.62
+2019-08-15 01:00   Finished sync...
+
+
+
+
+2019-08-15 02:00   Start sync......
+sending incremental file list
+
+sent 8,443 bytes  received 32 bytes  16,950.00 bytes/sec
+total size is 7,680,185,848  speedup is 906,216.62
+2019-08-15 02:00   Finished sync...
+
+
+
+
+2019-08-15 03:00   Start sync......
+sending incremental file list
+
+sent 8,443 bytes  received 32 bytes  16,950.00 bytes/sec
+total size is 7,680,185,848  speedup is 906,216.62
+2019-08-15 03:00   Finished sync...
+
+
+
+
+2019-08-15 04:00   Start sync......
+sending incremental file list
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908140400.tar.gz
+30.113.151.21/communication.log.2019-08-13-1.gz
+
+sent 61,473,912 bytes  received 77 bytes  6,470,946.21 bytes/sec
+total size is 7,745,521,034  speedup is 126.00
+2019-08-15 04:00   Finished sync...
+
+
+
+
+2019-08-15 05:00   Start sync......
+sending incremental file list
+
+sent 8,494 bytes  received 32 bytes  5,684.00 bytes/sec
+total size is 7,745,521,034  speedup is 908,458.95
+2019-08-15 05:00   Finished sync...
+
+
+
+
+2019-08-15 06:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908150400.tar.gz
+30.113.151.10/communication.log.2019-08-14-1.gz
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908150400.tar.gz
+30.113.151.18/communication.log.2019-08-14-1.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908150400.tar.gz
+30.113.151.20/communication.log.2019-08-14-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908150400.tar.gz
+30.113.151.8/communication.log.2019-08-14-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908150400.tar.gz
+30.113.151.9/communication.log.2019-08-14-1.gz
+
+sent 313,434,604 bytes  received 257 bytes  7,043,480.02 bytes/sec
+total size is 8,074,585,695  speedup is 25.76
+2019-08-15 06:00   Finished sync...
+
+
+
+
+2019-08-15 07:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908150400.tar.gz
+30.113.151.2/communication.log.2019-08-14-1.gz
+
+sent 53,618,400 bytes  received 77 bytes  6,308,056.12 bytes/sec
+total size is 8,130,996,732  speedup is 151.65
+2019-08-15 07:00   Finished sync...
+
+
+
+
+2019-08-15 08:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908150400.tar.gz
+30.113.151.13/communication.log.2019-08-14-1.gz
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908150400.tar.gz
+30.113.151.15/communication.log.2019-08-14-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908150400.tar.gz
+30.113.151.6/communication.log.2019-08-14-1.gz
+
+sent 189,350,202 bytes  received 167 bytes  6,885,467.96 bytes/sec
+total size is 8,329,955,471  speedup is 43.99
+2019-08-15 08:00   Finished sync...
+
+
+
+
+2019-08-15 09:00   Start sync......
+sending incremental file list
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908150400.tar.gz
+30.113.151.3/communication.log.2019-08-14-1.gz
+
+sent 54,975,052 bytes  received 77 bytes  5,786,855.68 bytes/sec
+total size is 8,386,885,570  speedup is 152.56
+2019-08-15 09:00   Finished sync...
+
+
+
+
+2019-08-15 10:00   Start sync......
+sending incremental file list
+30.113.151.3/communication.log.2019-08-14-1.gz
+
+sent 7,392,887 bytes  received 20,755 bytes  2,118,183.43 bytes/sec
+total size is 8,395,468,235  speedup is 1,132.44
+2019-08-15 10:00   Finished sync...
+
+
+
+
+2019-08-15 11:00   Start sync......
+sending incremental file list
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908150400.tar.gz
+30.113.151.14/communication.log.2019-08-14-1.gz
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908150400.tar.gz
+30.113.151.21/communication.log.2019-08-14-1.gz
+
+sent 117,342,098 bytes  received 122 bytes  6,705,269.71 bytes/sec
+total size is 8,519,087,978  speedup is 72.60
+2019-08-15 11:00   Finished sync...
+
+
+
+
+2019-08-15 12:00   Start sync......
+sending incremental file list
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908150400.tar.gz
+30.113.151.19/communication.log.2019-08-14-1.gz
+
+sent 62,929,439 bytes  received 77 bytes  5,993,287.24 bytes/sec
+total size is 8,585,315,195  speedup is 136.43
+2019-08-15 12:00   Finished sync...
+
+
+
+
+2019-08-15 13:00   Start sync......
+sending incremental file list
+
+sent 9,167 bytes  received 32 bytes  6,132.67 bytes/sec
+total size is 8,585,315,195  speedup is 933,287.88
+2019-08-15 13:00   Finished sync...
+
+
+
+
+2019-08-15 14:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908150400.tar.gz
+30.113.151.11/communication.log.2019-08-14-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908150400.tar.gz
+30.113.151.5/communication.log.2019-08-14-1.gz
+
+sent 118,062,739 bytes  received 122 bytes  6,746,449.20 bytes/sec
+total size is 8,708,785,672  speedup is 73.76
+2019-08-15 14:00   Finished sync...
+
+
+
+
+2019-08-15 15:00   Start sync......
+sending incremental file list
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908150400.tar.gz
+30.113.151.22/communication.log.2019-08-14-1.gz
+
+sent 58,371,904 bytes  received 77 bytes  6,144,419.05 bytes/sec
+total size is 8,768,854,651  speedup is 150.22
+2019-08-15 15:00   Finished sync...
+
+
+
+
+2019-08-15 16:00   Start sync......
+sending incremental file list
+30.113.151.22/communication.log.2019-08-14-1.gz
+
+sent 6,185,800 bytes  received 22,321 bytes  2,483,248.40 bytes/sec
+total size is 8,776,297,386  speedup is 1,413.68
+2019-08-15 16:00   Finished sync...
+
+
+
+
+2019-08-15 17:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908150400.tar.gz
+30.113.151.4/communication.log.2019-08-14-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908150400.tar.gz
+30.113.151.7/communication.log.2019-08-14-1.gz
+
+sent 131,813,476 bytes  received 122 bytes  6,759,671.69 bytes/sec
+total size is 8,914,834,567  speedup is 67.63
+2019-08-15 17:00   Finished sync...
+
+
+
+
+2019-08-15 18:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908150400.tar.gz
+30.113.151.1/communication.log.2019-08-14-1.gz
+
+sent 62,538,617 bytes  received 77 bytes  5,956,066.10 bytes/sec
+total size is 8,980,585,687  speedup is 143.60
+2019-08-15 18:00   Finished sync...
+
+
+
+
+2019-08-15 19:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-15 19:00   Finished sync...
+
+
+
+
+2019-08-15 20:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-15 20:00   Finished sync...
+
+
+
+
+2019-08-15 21:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-15 21:00   Finished sync...
+
+
+
+
+2019-08-15 22:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-15 22:00   Finished sync...
+
+
+
+
+2019-08-15 23:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-15 23:00   Finished sync...
+
+
+
+
+2019-08-16 00:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-16 00:00   Finished sync...
+
+
+
+
+2019-08-16 01:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-16 01:00   Finished sync...
+
+
+
+
+2019-08-16 02:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-16 02:00   Finished sync...
+
+
+
+
+2019-08-16 03:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-16 03:00   Finished sync...
+
+
+
+
+2019-08-16 04:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  6,337.33 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-16 04:00   Finished sync...
+
+
+
+
+2019-08-16 05:00   Start sync......
+sending incremental file list
+
+sent 9,474 bytes  received 32 bytes  19,012.00 bytes/sec
+total size is 8,980,585,687  speedup is 944,728.14
+2019-08-16 05:00   Finished sync...
+
+
+
+
+2019-08-16 06:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908160400.tar.gz
+30.113.151.10/communication.log.2019-08-15-1.gz
+30.113.151.17/
+30.113.151.17/30.113.151.17-201908151926.tar.gz
+30.113.151.17/30.113.151.17-201908160400.tar.gz
+30.113.151.17/communication.log.2019-08-14-1.gz
+30.113.151.17/communication.log.2019-08-15-1.gz
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908160400.tar.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908160400.tar.gz
+30.113.151.7/communication.log.2019-08-15-1.gz
+
+sent 221,903,317 bytes  received 231 bytes  6,827,801.48 bytes/sec
+total size is 9,211,635,305  speedup is 41.51
+2019-08-16 06:00   Finished sync...
+
+
+
+
+2019-08-16 07:00   Start sync......
+sending incremental file list
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908160400.tar.gz
+30.113.151.18/communication.log.2019-08-15-1.gz
+
+sent 54,849,748 bytes  received 19,013 bytes  6,455,148.35 bytes/sec
+total size is 9,271,865,327  speedup is 168.98
+2019-08-16 07:00   Finished sync...
+
+
+
+
+2019-08-16 08:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908160400.tar.gz
+30.113.151.13/communication.log.2019-08-15-1.gz
+
+sent 63,890,815 bytes  received 77 bytes  5,555,729.74 bytes/sec
+total size is 9,339,379,906  speedup is 146.18
+2019-08-16 08:00   Finished sync...
+
+
+
+
+2019-08-16 09:00   Start sync......
+sending incremental file list
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908160400.tar.gz
+30.113.151.22/communication.log.2019-08-15-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908160400.tar.gz
+
+sent 109,049,974 bytes  received 103 bytes  6,231,432.97 bytes/sec
+total size is 9,451,245,912  speedup is 86.67
+2019-08-16 09:00   Finished sync...
+
+
+
+
+2019-08-16 10:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908160400.tar.gz
+30.113.151.15/communication.log.2019-08-15-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908160400.tar.gz
+30.113.151.5/communication.log.2019-08-15-1.gz
+
+sent 81,039,504 bytes  received 46,511 bytes  6,006,371.48 bytes/sec
+total size is 9,538,621,473  speedup is 117.64
+2019-08-16 10:00   Finished sync...
+
+
+
+
+2019-08-16 11:00   Start sync......
+sending incremental file list
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908160400.tar.gz
+30.113.151.14/communication.log.2019-08-15-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908160400.tar.gz
+30.113.151.6/communication.log.2019-08-15-1.gz
+
+sent 120,077,163 bytes  received 122 bytes  6,861,559.14 bytes/sec
+total size is 9,664,843,387  speedup is 80.49
+2019-08-16 11:00   Finished sync...
+
+
+
+
+2019-08-16 12:00   Start sync......
+sending incremental file list
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908160400.tar.gz
+30.113.151.19/communication.log.2019-08-15-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908160400.tar.gz
+30.113.151.4/communication.log.2019-08-15-1.gz
+30.113.151.4/communication.log.2019-08-15-2.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908160400.tar.gz
+30.113.151.9/communication.log.2019-08-15-1.gz
+
+sent 228,153,368 bytes  received 186 bytes  852,910.48 bytes/sec
+total size is 9,905,414,225  speedup is 43.42
+2019-08-16 12:04   Finished sync...
+
+
+
+
+2019-08-16 13:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908160400.tar.gz
+30.113.151.11/communication.log.2019-08-15-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908160400.tar.gz
+30.113.151.8/communication.log.2019-08-15-1.gz
+
+sent 119,028,935 bytes  received 122 bytes  6,434,003.08 bytes/sec
+total size is 10,030,680,243  speedup is 84.27
+2019-08-16 13:00   Finished sync...
+
+
+
+
+2019-08-16 14:00   Start sync......
+sending incremental file list
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908160400.tar.gz
+30.113.151.21/communication.log.2019-08-15-1.gz
+
+sent 66,710,947 bytes  received 77 bytes  6,353,430.86 bytes/sec
+total size is 10,100,363,454  speedup is 151.40
+2019-08-16 14:00   Finished sync...
+
+
+
+
+2019-08-16 15:00   Start sync......
+sending incremental file list
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908160400.tar.gz
+30.113.151.20/communication.log.2019-08-15-1.gz
+
+sent 64,339,861 bytes  received 77 bytes  6,127,613.14 bytes/sec
+total size is 10,167,905,368  speedup is 158.03
+2019-08-16 15:00   Finished sync...
+
+
+
+
+2019-08-16 16:00   Start sync......
+sending incremental file list
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908160400.tar.gz
+30.113.151.3/communication.log.2019-08-15-1.gz
+
+sent 61,082,072 bytes  received 77 bytes  5,817,347.52 bytes/sec
+total size is 10,232,384,639  speedup is 167.52
+2019-08-16 16:00   Finished sync...
+
+
+
+
+2019-08-16 17:00   Start sync......
+sending incremental file list
+./
+
+sent 10,535 bytes  received 39 bytes  7,049.33 bytes/sec
+total size is 10,232,384,639  speedup is 967,692.89
+2019-08-16 17:00   Finished sync...
+
+
+
+
+2019-08-16 18:00   Start sync......
+sending incremental file list
+./
+
+sent 10,535 bytes  received 39 bytes  7,049.33 bytes/sec
+total size is 10,232,384,639  speedup is 967,692.89
+2019-08-16 18:00   Finished sync...
+
+
+
+
+2019-08-16 19:00   Start sync......
+sending incremental file list
+
+sent 10,528 bytes  received 32 bytes  7,040.00 bytes/sec
+total size is 10,232,384,639  speedup is 968,975.82
+2019-08-16 19:00   Finished sync...
+
+
+
+
+2019-08-16 20:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908160400.tar.gz
+30.113.151.1/communication.log.2019-08-15-1.gz
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908160400.tar.gz
+30.113.151.2/communication.log.2019-08-15-1.gz
+
+sent 67,808,975 bytes  received 122 bytes  5,424,727.76 bytes/sec
+total size is 10,304,509,165  speedup is 151.96
+2019-08-16 20:00   Finished sync...
+
+
+
+
+2019-08-16 21:00   Start sync......
+sending incremental file list
+30.113.151.1/communication.log.2019-08-15-1.gz
+
+sent 10,114,235 bytes  received 16,909 bytes  2,894,612.57 bytes/sec
+total size is 10,316,305,868  speedup is 1,018.28
+2019-08-16 21:00   Finished sync...
+
+
+
+
+2019-08-16 22:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  7,109.33 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-16 22:00   Finished sync...
+
+
+
+
+2019-08-16 23:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  7,109.33 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-16 23:00   Finished sync...
+
+
+
+
+2019-08-17 00:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  7,109.33 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-17 00:00   Finished sync...
+
+
+
+
+2019-08-17 01:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  7,109.33 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-17 01:00   Finished sync...
+
+
+
+
+2019-08-17 02:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  21,328.00 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-17 02:00   Finished sync...
+
+
+
+
+2019-08-17 03:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  21,328.00 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-17 03:00   Finished sync...
+
+
+
+
+2019-08-17 04:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  7,109.33 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-17 04:00   Finished sync...
+
+
+
+
+2019-08-17 05:00   Start sync......
+sending incremental file list
+
+sent 10,632 bytes  received 32 bytes  7,109.33 bytes/sec
+total size is 10,316,305,868  speedup is 967,395.52
+2019-08-17 05:00   Finished sync...
+
+
+
+
+2019-08-17 06:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908170400.tar.gz
+30.113.151.1/communication.log.2019-08-16-1.gz
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908170400.tar.gz
+30.113.151.13/communication.log.2019-08-16-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908170400.tar.gz
+30.113.151.4/communication.log.2019-08-16-1.gz
+30.113.151.4/communication.log.2019-08-16-2.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908170400.tar.gz
+30.113.151.6/communication.log.2019-08-16-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908170400.tar.gz
+30.113.151.8/communication.log.2019-08-16-1.gz
+
+sent 291,229,835 bytes  received 276 bytes  7,017,593.04 bytes/sec
+total size is 10,619,116,844  speedup is 36.46
+2019-08-17 06:00   Finished sync...
+
+
+
+
+2019-08-17 07:00   Start sync......
+sending incremental file list
+30.113.151.17/
+30.113.151.17/30.113.151.17-201908170400.tar.gz
+30.113.151.17/communication.log.2019-08-16-1.gz
+30.113.151.8/communication.log.2019-08-16-1.gz
+
+sent 72,832,058 bytes  received 20,542 bytes  6,335,008.70 bytes/sec
+total size is 10,699,774,052  speedup is 146.87
+2019-08-17 07:00   Finished sync...
+
+
+
+
+2019-08-17 08:00   Start sync......
+sending incremental file list
+
+sent 10,991 bytes  received 32 bytes  7,348.67 bytes/sec
+total size is 10,699,774,052  speedup is 970,677.13
+2019-08-17 08:00   Finished sync...
+
+
+
+
+2019-08-17 09:00   Start sync......
+sending incremental file list
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908170400.tar.gz
+30.113.151.22/communication.log.2019-08-16-1.gz
+
+sent 66,041,205 bytes  received 77 bytes  6,289,645.90 bytes/sec
+total size is 10,768,951,443  speedup is 163.06
+2019-08-17 09:00   Finished sync...
+
+
+
+
+2019-08-17 10:00   Start sync......
+sending incremental file list
+
+sent 11,043 bytes  received 32 bytes  7,383.33 bytes/sec
+total size is 10,768,951,443  speedup is 972,365.82
+2019-08-17 10:00   Finished sync...
+
+
+
+
+2019-08-17 11:00   Start sync......
+sending incremental file list
+
+sent 11,043 bytes  received 32 bytes  7,383.33 bytes/sec
+total size is 10,768,951,443  speedup is 972,365.82
+2019-08-17 11:00   Finished sync...
+
+
+
+
+2019-08-17 12:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908170400.tar.gz
+30.113.151.10/communication.log.2019-08-16-1.gz
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908170400.tar.gz
+30.113.151.11/communication.log.2019-08-16-1.gz
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908170400.tar.gz
+30.113.151.15/communication.log.2019-08-16-1.gz
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908170400.tar.gz
+30.113.151.2/communication.log.2019-08-16-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908170400.tar.gz
+30.113.151.9/communication.log.2019-08-16-1.gz
+
+sent 311,187,296 bytes  received 257 bytes  6,551,316.91 bytes/sec
+total size is 11,091,484,237  speedup is 35.64
+2019-08-17 12:00   Finished sync...
+
+
+
+
+2019-08-17 13:00   Start sync......
+sending incremental file list
+30.113.151.15/communication.log.2019-08-16-1.gz
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908170400.tar.gz
+30.113.151.3/communication.log.2019-08-16-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908170400.tar.gz
+30.113.151.7/communication.log.2019-08-16-1.gz
+
+sent 115,829,615 bytes  received 15,481 bytes  6,619,719.77 bytes/sec
+total size is 11,217,294,652  speedup is 96.83
+2019-08-17 13:00   Finished sync...
+
+
+
+
+2019-08-17 14:00   Start sync......
+sending incremental file list
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908170400.tar.gz
+30.113.151.20/communication.log.2019-08-16-1.gz
+
+sent 64,718,743 bytes  received 77 bytes  5,627,723.48 bytes/sec
+total size is 11,285,154,291  speedup is 174.37
+2019-08-17 14:00   Finished sync...
+
+
+
+
+2019-08-17 15:00   Start sync......
+sending incremental file list
+
+sent 11,457 bytes  received 32 bytes  7,659.33 bytes/sec
+total size is 11,285,154,291  speedup is 982,257.31
+2019-08-17 15:00   Finished sync...
+
+
+
+
+2019-08-17 16:00   Start sync......
+sending incremental file list
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908170400.tar.gz
+30.113.151.14/communication.log.2019-08-16-1.gz
+
+sent 55,500,530 bytes  received 77 bytes  5,285,772.10 bytes/sec
+total size is 11,343,647,692  speedup is 204.39
+2019-08-17 16:00   Finished sync...
+
+
+
+
+2019-08-17 17:00   Start sync......
+sending incremental file list
+
+sent 11,507 bytes  received 32 bytes  7,692.67 bytes/sec
+total size is 11,343,647,692  speedup is 983,070.26
+2019-08-17 17:00   Finished sync...
+
+
+
+
+2019-08-17 18:00   Start sync......
+sending incremental file list
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908170400.tar.gz
+30.113.151.5/communication.log.2019-08-16-1.gz
+
+sent 51,989,304 bytes  received 79 bytes  5,472,566.63 bytes/sec
+total size is 11,398,961,538  speedup is 219.26
+2019-08-17 18:00   Finished sync...
+
+
+
+
+2019-08-17 19:00   Start sync......
+sending incremental file list
+
+sent 11,560 bytes  received 32 bytes  7,728.00 bytes/sec
+total size is 11,398,961,538  speedup is 983,347.27
+2019-08-17 19:00   Finished sync...
+
+
+
+
+2019-08-17 20:00   Start sync......
+sending incremental file list
+
+sent 11,560 bytes  received 32 bytes  7,728.00 bytes/sec
+total size is 11,398,961,538  speedup is 983,347.27
+2019-08-17 20:00   Finished sync...
+
+
+
+
+2019-08-17 21:00   Start sync......
+sending incremental file list
+
+sent 11,560 bytes  received 32 bytes  7,728.00 bytes/sec
+total size is 11,398,961,538  speedup is 983,347.27
+2019-08-17 21:00   Finished sync...
+
+
+
+
+2019-08-17 22:00   Start sync......
+sending incremental file list
+
+sent 11,560 bytes  received 32 bytes  7,728.00 bytes/sec
+total size is 11,398,961,538  speedup is 983,347.27
+2019-08-17 22:00   Finished sync...
+
+
+
+
+2019-08-17 23:00   Start sync......
+sending incremental file list
+
+sent 11,560 bytes  received 32 bytes  7,728.00 bytes/sec
+total size is 11,398,961,538  speedup is 983,347.27
+2019-08-17 23:00   Finished sync...
+
+
+
+
+2019-08-18 00:00   Start sync......
+sending incremental file list
+
+sent 11,560 bytes  received 32 bytes  23,184.00 bytes/sec
+total size is 11,398,961,538  speedup is 983,347.27
+2019-08-18 00:00   Finished sync...
+
+
+
+
+2019-08-18 01:00   Start sync......
+sending incremental file list
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908170400.tar.gz
+30.113.151.21/communication.log.2019-08-16-1.gz
+
+sent 60,790,870 bytes  received 77 bytes  6,399,047.05 bytes/sec
+total size is 11,461,792,321  speedup is 188.54
+2019-08-18 01:00   Finished sync...
+
+
+
+
+2019-08-18 02:00   Start sync......
+sending incremental file list
+30.113.151.21/communication.log.2019-08-16-1.gz
+
+sent 4,305,126 bytes  received 23,965 bytes  1,731,636.40 bytes/sec
+total size is 11,467,131,952  speedup is 2,648.85
+2019-08-18 02:00   Finished sync...
+
+
+
+
+2019-08-18 03:00   Start sync......
+sending incremental file list
+
+sent 11,612 bytes  received 32 bytes  7,762.67 bytes/sec
+total size is 11,467,131,952  speedup is 984,810.37
+2019-08-18 03:00   Finished sync...
+
+
+
+
+2019-08-18 04:00   Start sync......
+sending incremental file list
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908170400.tar.gz
+30.113.151.19/communication.log.2019-08-16-1.gz
+
+sent 64,971,444 bytes  received 77 bytes  6,187,763.90 bytes/sec
+total size is 11,535,252,020  speedup is 177.54
+2019-08-18 04:00   Finished sync...
+
+
+
+
+2019-08-18 05:00   Start sync......
+sending incremental file list
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908170400.tar.gz
+30.113.151.18/30.113.151.18-201908180400.tar.gz
+30.113.151.18/communication.log.2019-08-16-1.gz
+30.113.151.18/communication.log.2019-08-17-1.gz
+
+sent 113,984,557 bytes  received 115 bytes  6,513,409.83 bytes/sec
+total size is 11,655,500,994  speedup is 102.25
+2019-08-18 05:00   Finished sync...
+
+
+
+
+2019-08-18 06:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908180400.tar.gz
+30.113.151.13/communication.log.2019-08-17-1.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908180400.tar.gz
+30.113.151.20/communication.log.2019-08-17-1.gz
+
+sent 128,689,715 bytes  received 122 bytes  6,599,478.82 bytes/sec
+total size is 11,790,481,451  speedup is 91.62
+2019-08-18 06:00   Finished sync...
+
+
+
+
+2019-08-18 07:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908180400.tar.gz
+30.113.151.2/communication.log.2019-08-17-1.gz
+
+sent 54,914,051 bytes  received 77 bytes  5,780,434.53 bytes/sec
+total size is 11,848,357,433  speedup is 215.76
+2019-08-18 07:00   Finished sync...
+
+
+
+
+2019-08-18 08:00   Start sync......
+sending incremental file list
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908171656.tar.gz
+30.113.151.7/30.113.151.7-201908180400.tar.gz
+30.113.151.7/communication.log.2019-08-17-1.gz
+
+sent 51,935,215 bytes  received 98 bytes  5,466,875.05 bytes/sec
+total size is 11,903,278,479  speedup is 229.19
+2019-08-18 08:00   Finished sync...
+
+
+
+
+2019-08-18 09:00   Start sync......
+sending incremental file list
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908180400.tar.gz
+30.113.151.14/communication.log.2019-08-17-1.gz
+
+sent 57,213,387 bytes  received 77 bytes  6,022,469.89 bytes/sec
+total size is 11,963,328,828  speedup is 209.10
+2019-08-18 09:00   Finished sync...
+
+
+
+
+2019-08-18 10:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908180400.tar.gz
+30.113.151.15/communication.log.2019-08-17-1.gz
+
+sent 65,323,439 bytes  received 77 bytes  5,225,881.28 bytes/sec
+total size is 12,031,633,398  speedup is 184.19
+2019-08-18 10:00   Finished sync...
+
+
+
+
+2019-08-18 11:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908180400.tar.gz
+30.113.151.11/communication.log.2019-08-17-1.gz
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908180400.tar.gz
+30.113.151.3/communication.log.2019-08-17-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908180400.tar.gz
+30.113.151.4/communication.log.2019-08-17-1.gz
+
+sent 168,209,207 bytes  received 167 bytes  6,347,523.55 bytes/sec
+total size is 12,205,416,439  speedup is 72.56
+2019-08-18 11:00   Finished sync...
+
+
+
+
+2019-08-18 12:00   Start sync......
+sending incremental file list
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908180400.tar.gz
+30.113.151.19/communication.log.2019-08-17-1.gz
+30.113.151.4/communication.log.2019-08-17-1.gz
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908180400.tar.gz
+30.113.151.8/communication.log.2019-08-17-1.gz
+
+sent 131,490,398 bytes  received 12,037 bytes  5,844,552.67 bytes/sec
+total size is 12,345,428,849  speedup is 93.88
+2019-08-18 12:00   Finished sync...
+
+
+
+
+2019-08-18 13:00   Start sync......
+sending incremental file list
+30.113.151.17/
+30.113.151.17/30.113.151.17-201908180400.tar.gz
+30.113.151.17/communication.log.2019-08-17-1.gz
+30.113.151.8/communication.log.2019-08-17-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908180400.tar.gz
+30.113.151.9/communication.log.2019-08-17-1.gz
+
+sent 126,164,127 bytes  received 25,611 bytes  5,869,290.14 bytes/sec
+total size is 12,480,509,010  speedup is 98.90
+2019-08-18 13:00   Finished sync...
+
+
+
+
+2019-08-18 14:00   Start sync......
+sending incremental file list
+
+sent 12,468 bytes  received 32 bytes  25,000.00 bytes/sec
+total size is 12,480,509,010  speedup is 998,440.72
+2019-08-18 14:00   Finished sync...
+
+
+
+
+2019-08-18 15:00   Start sync......
+sending incremental file list
+
+sent 12,468 bytes  received 32 bytes  8,333.33 bytes/sec
+total size is 12,480,509,010  speedup is 998,440.72
+2019-08-18 15:00   Finished sync...
+
+
+
+
+2019-08-18 16:00   Start sync......
+sending incremental file list
+
+sent 12,468 bytes  received 32 bytes  8,333.33 bytes/sec
+total size is 12,480,509,010  speedup is 998,440.72
+2019-08-18 16:00   Finished sync...
+
+
+
+
+2019-08-18 17:00   Start sync......
+sending incremental file list
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908180400.tar.gz
+30.113.151.22/communication.log.2019-08-17-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908180400.tar.gz
+
+sent 73,819,641 bytes  received 105 bytes  5,905,579.68 bytes/sec
+total size is 12,557,220,505  speedup is 170.11
+2019-08-18 17:00   Finished sync...
+
+
+
+
+2019-08-18 18:00   Start sync......
+sending incremental file list
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908180400.tar.gz
+30.113.151.21/communication.log.2019-08-17-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908180400.tar.gz
+30.113.151.5/communication.log.2019-08-17-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908180400.tar.gz
+30.113.151.6/communication.log.2019-08-17-1.gz
+
+sent 169,480,379 bytes  received 21,095 bytes  6,163,689.96 bytes/sec
+total size is 12,737,504,640  speedup is 75.15
+2019-08-18 18:00   Finished sync...
+
+
+
+
+2019-08-18 19:00   Start sync......
+sending incremental file list
+
+sent 12,671 bytes  received 32 bytes  8,468.67 bytes/sec
+total size is 12,737,504,640  speedup is 1,002,716.26
+2019-08-18 19:00   Finished sync...
+
+
+
+
+2019-08-18 20:00   Start sync......
+sending incremental file list
+
+sent 12,671 bytes  received 32 bytes  8,468.67 bytes/sec
+total size is 12,737,504,640  speedup is 1,002,716.26
+2019-08-18 20:00   Finished sync...
+
+
+
+
+2019-08-18 21:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908180400.tar.gz
+30.113.151.1/communication.log.2019-08-17-1.gz
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908180400.tar.gz
+30.113.151.10/communication.log.2019-08-17-1.gz
+
+sent 130,823,835 bytes  received 122 bytes  6,084,835.21 bytes/sec
+total size is 12,875,102,389  speedup is 98.42
+2019-08-18 21:00   Finished sync...
+
+
+
+
+2019-08-18 22:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  8,536.67 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-18 22:00   Finished sync...
+
+
+
+
+2019-08-18 23:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  8,536.67 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-18 23:00   Finished sync...
+
+
+
+
+2019-08-19 00:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  25,610.00 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-19 00:00   Finished sync...
+
+
+
+
+2019-08-19 01:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  25,610.00 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-19 01:00   Finished sync...
+
+
+
+
+2019-08-19 02:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  8,536.67 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-19 02:00   Finished sync...
+
+
+
+
+2019-08-19 03:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  8,536.67 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-19 03:00   Finished sync...
+
+
+
+
+2019-08-19 04:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  8,536.67 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-19 04:00   Finished sync...
+
+
+
+
+2019-08-19 05:00   Start sync......
+sending incremental file list
+
+sent 12,773 bytes  received 32 bytes  8,536.67 bytes/sec
+total size is 12,875,102,389  speedup is 1,005,474.61
+2019-08-19 05:00   Finished sync...
+
+
+
+
+2019-08-19 06:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908190400.tar.gz
+30.113.151.2/communication.log.2019-08-18-1.gz
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908190400.tar.gz
+30.113.151.3/communication.log.2019-08-18-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908182026.tar.gz
+30.113.151.5/30.113.151.5-201908190400.tar.gz
+30.113.151.5/communication.log.2019-08-18-1.gz
+
+sent 186,749,999 bytes  received 186 bytes  6,790,915.82 bytes/sec
+total size is 13,071,914,740  speedup is 70.00
+2019-08-19 06:00   Finished sync...
+
+
+
+
+2019-08-19 07:00   Start sync......
+sending incremental file list
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908190400.tar.gz
+30.113.151.8/communication.log.2019-08-18-1.gz
+
+sent 56,112,901 bytes  received 79 bytes  5,906,629.47 bytes/sec
+total size is 13,131,028,188  speedup is 234.01
+2019-08-19 07:00   Finished sync...
+
+
+
+
+2019-08-19 08:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908190400.tar.gz
+30.113.151.1/communication.log.2019-08-18-1.gz
+
+sent 66,327,296 bytes  received 77 bytes  5,767,597.65 bytes/sec
+total size is 13,200,390,003  speedup is 199.02
+2019-08-19 08:00   Finished sync...
+
+
+
+
+2019-08-19 09:00   Start sync......
+sending incremental file list
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908190400.tar.gz
+30.113.151.13/communication.log.2019-08-18-1.gz
+
+sent 66,726,659 bytes  received 77 bytes  6,354,927.24 bytes/sec
+total size is 13,270,224,260  speedup is 198.87
+2019-08-19 09:00   Finished sync...
+
+
+
+
+2019-08-19 10:00   Start sync......
+sending incremental file list
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908190400.tar.gz
+30.113.151.18/communication.log.2019-08-18-1.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908190400.tar.gz
+30.113.151.20/communication.log.2019-08-18-1.gz
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908190400.tar.gz
+30.113.151.21/communication.log.2019-08-18-1.gz
+
+sent 158,102,840 bytes  received 167 bytes  6,453,183.96 bytes/sec
+total size is 13,434,123,277  speedup is 84.97
+2019-08-19 10:00   Finished sync...
+
+
+
+
+2019-08-19 11:00   Start sync......
+sending incremental file list
+./
+30.113.151.12/
+30.113.151.21/communication.log.2019-08-18-1.gz
+30.113.151.23/
+30.113.151.24/
+30.113.151.25/
+30.113.151.26/
+30.113.151.27/
+30.113.151.28/
+30.113.151.29/
+30.113.151.30/
+30.113.151.31/
+30.113.151.32/
+30.113.151.33/
+30.113.151.34/
+30.113.151.35/
+30.113.151.36/
+30.113.151.37/
+30.113.151.38/
+30.113.151.39/
+30.113.151.40/
+30.113.151.41/
+
+sent 11,693,284 bytes  received 16,336 bytes  3,345,605.71 bytes/sec
+total size is 13,449,149,027  speedup is 1,148.56
+2019-08-19 11:00   Finished sync...
+
+
+
+
+2019-08-19 12:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908190400.tar.gz
+30.113.151.10/communication.log.2019-08-18-1.gz
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908190400.tar.gz
+30.113.151.19/communication.log.2019-08-18-1.gz
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908190400.tar.gz
+30.113.151.22/communication.log.2019-08-18-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908190400.tar.gz
+30.113.151.6/communication.log.2019-08-18-1.gz
+
+sent 266,015,235 bytes  received 232 bytes  6,734,568.78 bytes/sec
+total size is 13,728,972,524  speedup is 51.61
+2019-08-19 12:00   Finished sync...
+
+
+
+
+2019-08-19 13:00   Start sync......
+sending incremental file list
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908190400.tar.gz
+30.113.151.15/communication.log.2019-08-18-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908190400.tar.gz
+30.113.151.4/communication.log.2019-08-18-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908190400.tar.gz
+30.113.151.9/communication.log.2019-08-18-1.gz
+
+sent 194,018,129 bytes  received 187 bytes  6,576,892.07 bytes/sec
+total size is 13,932,624,586  speedup is 71.81
+2019-08-19 13:00   Finished sync...
+
+
+
+
+2019-08-19 14:00   Start sync......
+sending incremental file list
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908190400.tar.gz
+30.113.151.14/communication.log.2019-08-18-1.gz
+
+sent 57,534,448 bytes  received 97 bytes  6,768,770.00 bytes/sec
+total size is 13,992,995,211  speedup is 243.21
+2019-08-19 14:00   Finished sync...
+
+
+
+
+2019-08-19 15:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908190400.tar.gz
+30.113.151.11/communication.log.2019-08-18-1.gz
+
+sent 57,831,416 bytes  received 97 bytes  6,803,707.41 bytes/sec
+total size is 14,053,737,229  speedup is 243.01
+2019-08-19 15:00   Finished sync...
+
+
+
+
+2019-08-19 16:00   Start sync......
+sending incremental file list
+
+sent 14,168 bytes  received 52 bytes  28,440.00 bytes/sec
+total size is 14,053,737,229  speedup is 988,307.82
+2019-08-19 16:00   Finished sync...
+
+
+
+
+2019-08-19 17:00   Start sync......
+sending incremental file list
+
+sent 14,168 bytes  received 52 bytes  9,480.00 bytes/sec
+total size is 14,053,737,229  speedup is 988,307.82
+2019-08-19 17:00   Finished sync...
+
+
+
+
+2019-08-19 18:00   Start sync......
+sending incremental file list
+
+sent 14,168 bytes  received 52 bytes  9,480.00 bytes/sec
+total size is 14,053,737,229  speedup is 988,307.82
+2019-08-19 18:00   Finished sync...
+
+
+
+
+2019-08-19 19:00   Start sync......
+sending incremental file list
+
+sent 14,168 bytes  received 52 bytes  9,480.00 bytes/sec
+total size is 14,053,737,229  speedup is 988,307.82
+2019-08-19 19:00   Finished sync...
+
+
+
+
+2019-08-19 20:00   Start sync......
+sending incremental file list
+30.113.151.17/
+30.113.151.17/30.113.151.17-201908190400.tar.gz
+30.113.151.17/communication.log.2019-08-18-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908190400.tar.gz
+30.113.151.7/communication.log.2019-08-18-1.gz
+
+sent 124,021,032 bytes  received 144 bytes  6,360,060.31 bytes/sec
+total size is 14,184,116,791  speedup is 114.37
+2019-08-19 20:00   Finished sync...
+
+
+
+
+2019-08-20 13:16   Start sync......
+sending incremental file list
+./
+30.113.151.1/
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908200400.tar.gz
+30.113.151.10/communication.log.2019-08-19-1.gz
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908200400.tar.gz
+30.113.151.11/communication.log.2019-08-19-1.gz
+30.113.151.12/
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908200400.tar.gz
+30.113.151.13/communication.log.2019-08-19-1.gz
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908200400.tar.gz
+30.113.151.14/communication.log.2019-08-19-1.gz
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908200400.tar.gz
+30.113.151.15/communication.log.2019-08-19-1.gz
+30.113.151.17/
+30.113.151.17/30.113.151.17-201908200400.tar.gz
+30.113.151.17/communication.log.2019-08-19-1.gz
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908200400.tar.gz
+30.113.151.18/communication.log.2019-08-19-1.gz
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908200400.tar.gz
+30.113.151.19/communication.log.2019-08-19-1.gz
+30.113.151.2/
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908200400.tar.gz
+30.113.151.20/communication.log.2019-08-19-1.gz
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908200400.tar.gz
+30.113.151.21/communication.log.2019-08-19-1.gz
+30.113.151.22/
+30.113.151.23/
+30.113.151.23/30.113.151.23-201908200400.tar.gz
+30.113.151.23/communication.log.2019-08-19-1.gz
+30.113.151.24/
+30.113.151.24/30.113.151.24-201908200400.tar.gz
+30.113.151.24/communication.log.2019-08-19-1.gz
+30.113.151.25/
+30.113.151.25/30.113.151.25-201908200400.tar.gz
+30.113.151.25/communication.log.2019-08-19-1.gz
+30.113.151.26/
+30.113.151.26/30.113.151.26-201908200400.tar.gz
+30.113.151.26/communication.log.2019-08-19-1.gz
+30.113.151.27/
+30.113.151.28/
+30.113.151.28/30.113.151.28-201908200400.tar.gz
+30.113.151.28/communication.log.2019-08-19-1.gz
+30.113.151.29/
+30.113.151.29/30.113.151.29-201908200400.tar.gz
+30.113.151.29/communication.log.2019-08-19-1.gz
+30.113.151.3/
+30.113.151.30/
+30.113.151.30/30.113.151.30-201908200400.tar.gz
+30.113.151.30/communication.log.2019-08-19-1.gz
+30.113.151.31/
+30.113.151.32/
+30.113.151.32/30.113.151.32-201908200400.tar.gz
+30.113.151.32/communication.log.2019-08-19-1.gz
+30.113.151.33/
+30.113.151.34/
+30.113.151.34/30.113.151.34-201908200400.tar.gz
+30.113.151.34/communication.log.2019-08-19-1.gz
+30.113.151.35/
+30.113.151.35/30.113.151.35-201908200400.tar.gz
+30.113.151.35/communication.log.2019-08-19-1.gz
+30.113.151.36/
+30.113.151.36/30.113.151.36-201908200400.tar.gz
+30.113.151.36/communication.log.2019-08-19-1.gz
+30.113.151.37/
+30.113.151.37/30.113.151.37-201908191000.tar.gz
+30.113.151.37/30.113.151.37-201908200400.tar.gz
+30.113.151.37/communication.log.2019-08-19-1.gz
+30.113.151.38/
+30.113.151.38/30.113.151.38-201908200400.tar.gz
+30.113.151.38/communication.log.2019-08-19-1.gz
+30.113.151.39/
+30.113.151.39/30.113.151.39-201908200400.tar.gz
+30.113.151.39/communication.log.2019-08-19-1.gz
+30.113.151.4/
+30.113.151.40/
+30.113.151.40/30.113.151.40-201908200400.tar.gz
+30.113.151.40/communication.log.2019-08-19-1.gz
+30.113.151.41/
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908200400.tar.gz
+30.113.151.5/communication.log.2019-08-19-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908200400.tar.gz
+30.113.151.6/communication.log.2019-08-19-1.gz
+30.113.151.7/
+30.113.151.8/
+30.113.151.8/30.113.151.8-201908200400.tar.gz
+30.113.151.8/communication.log.2019-08-19-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908200400.tar.gz
+30.113.151.9/communication.log.2019-08-19-1.gz
+
+sent 1,667,526,286 bytes  received 1,416 bytes  7,172,162.16 bytes/sec
+total size is 1,740,853,038  speedup is 1.04
+2019-08-20 13:19   Finished sync...
+
+
+
+
+2019-08-20 14:00   Start sync......
+sending incremental file list
+30.113.151.35/communication.log.2019-08-19-1.gz
+
+sent 3,908 bytes  received 27,111 bytes  20,679.33 bytes/sec
+total size is 1,756,553,293  speedup is 56,628.30
+2019-08-20 14:00   Finished sync...
+
+
+
+
+2019-08-20 15:00   Start sync......
+sending incremental file list
+30.113.151.31/
+30.113.151.31/30.113.151.31-201908200400.tar.gz
+30.113.151.31/communication.log.2019-08-19-1.gz
+30.113.151.33/
+30.113.151.33/30.113.151.33-201908200400.tar.gz
+30.113.151.33/communication.log.2019-08-19-1.gz
+
+sent 96,742,744 bytes  received 142 bytes  6,241,476.52 bytes/sec
+total size is 1,856,077,732  speedup is 19.19
+2019-08-20 15:00   Finished sync...
+
+
+
+
+2019-08-20 16:00   Start sync......
+sending incremental file list
+30.113.151.2/
+30.113.151.2/30.113.151.2-201908200400.tar.gz
+30.113.151.2/communication.log.2019-08-19-1.gz
+30.113.151.27/
+30.113.151.27/30.113.151.27-201908200400.tar.gz
+30.113.151.27/communication.log.2019-08-19-1.gz
+30.113.151.33/communication.log.2019-08-19-1.gz
+
+sent 123,072,175 bytes  received 10,983 bytes  6,311,956.82 bytes/sec
+total size is 1,988,334,191  speedup is 16.15
+2019-08-20 16:00   Finished sync...
+
+
+
+
+2019-08-20 17:00   Start sync......
+sending incremental file list
+30.113.151.22/
+30.113.151.22/30.113.151.22-201908200400.tar.gz
+30.113.151.22/communication.log.2019-08-19-1.gz
+
+sent 66,489,425 bytes  received 97 bytes  5,781,697.57 bytes/sec
+total size is 2,058,234,960  speedup is 30.96
+2019-08-20 17:00   Finished sync...
+
+
+
+
+2019-08-20 18:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908192353.tar.gz
+30.113.151.1/30.113.151.1-201908200400.tar.gz
+30.113.151.1/communication.log.2019-08-19-1.gz
+30.113.151.12/
+30.113.151.12/30.113.151.12-201908200400.tar.gz
+30.113.151.12/communication.log.2019-08-19-1.gz
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908200400.tar.gz
+30.113.151.4/communication.log.2019-08-19-1.gz
+
+sent 184,528,991 bytes  received 206 bytes  6,050,137.61 bytes/sec
+total size is 2,252,227,325  speedup is 12.21
+2019-08-20 18:00   Finished sync...
+
+
+
+
+2019-08-20 19:00   Start sync......
+sending incremental file list
+30.113.151.41/
+30.113.151.41/30.113.151.41-201908201843.tar.gz
+30.113.151.41/communication.log.2019-08-19-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908200400.tar.gz
+30.113.151.7/30.113.151.7-201908200808.tar.gz
+30.113.151.7/communication.log.2019-08-19-1.gz
+
+sent 138,395,329 bytes  received 161 bytes  6,436,999.53 bytes/sec
+total size is 2,396,914,628  speedup is 17.32
+2019-08-20 19:00   Finished sync...
+
+
+
+
+2019-08-20 20:00   Start sync......
+sending incremental file list
+30.113.151.41/communication.log.2019-08-19-1.gz
+
+sent 4,970 bytes  received 26,991 bytes  21,307.33 bytes/sec
+total size is 2,397,562,461  speedup is 75,015.25
+2019-08-20 20:00   Finished sync...
+
+
+
+
+2019-08-20 21:00   Start sync......
+sending incremental file list
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908200400.tar.gz
+30.113.151.3/30.113.151.3-201908202023.tar.gz
+30.113.151.3/communication.log.2019-08-19-1.gz
+
+sent 27,927,280 bytes  received 116 bytes  5,077,708.36 bytes/sec
+total size is 2,428,158,947  speedup is 86.95
+2019-08-20 21:00   Finished sync...
+
+
+
+
+2019-08-20 22:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-20 22:00   Finished sync...
+
+
+
+
+2019-08-20 23:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-20 23:00   Finished sync...
+
+
+
+
+2019-08-21 00:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-21 00:00   Finished sync...
+
+
+
+
+2019-08-21 01:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-21 01:00   Finished sync...
+
+
+
+
+2019-08-21 02:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-21 02:00   Finished sync...
+
+
+
+
+2019-08-21 03:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-21 03:00   Finished sync...
+
+
+
+
+2019-08-21 04:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-21 04:00   Finished sync...
+
+
+
+
+2019-08-21 05:00   Start sync......
+sending incremental file list
+
+sent 5,049 bytes  received 52 bytes  3,400.67 bytes/sec
+total size is 2,428,158,947  speedup is 476,016.26
+2019-08-21 05:00   Finished sync...
+
+
+
+
+2019-08-21 06:00   Start sync......
+sending incremental file list
+30.113.151.10/
+30.113.151.10/30.113.151.10-201908202111.tar.gz
+30.113.151.10/30.113.151.10-201908210400.tar.gz
+30.113.151.10/communication.log.2019-08-20-1.gz
+30.113.151.15/
+30.113.151.15/30.113.151.15-201908210400.tar.gz
+30.113.151.15/communication.log.2019-08-20-1.gz
+30.113.151.21/
+30.113.151.21/30.113.151.21-201908210400.tar.gz
+30.113.151.21/communication.log.2019-08-20-1.gz
+30.113.151.23/
+30.113.151.23/30.113.151.23-201908210400.tar.gz
+30.113.151.23/communication.log.2019-08-20-1.gz
+30.113.151.39/
+30.113.151.39/30.113.151.39-201908210400.tar.gz
+30.113.151.39/communication.log.2019-08-20-1.gz
+
+sent 305,322,519 bytes  received 296 bytes  7,018,915.29 bytes/sec
+total size is 2,747,280,761  speedup is 9.00
+2019-08-21 06:00   Finished sync...
+
+
+
+
+2019-08-21 07:00   Start sync......
+sending incremental file list
+30.113.151.15/communication.log.2019-08-20-1.gz
+
+sent 5,387 bytes  received 27,327 bytes  13,085.60 bytes/sec
+total size is 2,748,496,465  speedup is 84,015.91
+2019-08-21 07:00   Finished sync...
+
+
+
+
+2019-08-21 08:00   Start sync......
+sending incremental file list
+30.113.151.4/
+30.113.151.4/30.113.151.4-201908210400.tar.gz
+30.113.151.4/communication.log.2019-08-20-1.gz
+
+sent 62,417,432 bytes  received 97 bytes  5,944,526.57 bytes/sec
+total size is 2,814,324,113  speedup is 45.09
+2019-08-21 08:00   Finished sync...
+
+
+
+
+2019-08-21 09:00   Start sync......
+sending incremental file list
+30.113.151.11/
+30.113.151.11/30.113.151.11-201908210400.tar.gz
+30.113.151.11/communication.log.2019-08-20-1.gz
+30.113.151.14/
+30.113.151.14/30.113.151.14-201908210400.tar.gz
+30.113.151.14/communication.log.2019-08-20-1.gz
+30.113.151.34/
+30.113.151.34/30.113.151.34-201908210400.tar.gz
+
+sent 132,947,452 bytes  received 168 bytes  6,183,610.23 bytes/sec
+total size is 2,952,069,525  speedup is 22.20
+2019-08-21 09:00   Finished sync...
+
+
+
+
+2019-08-21 10:00   Start sync......
+sending incremental file list
+30.113.151.24/
+30.113.151.24/30.113.151.24-201908210400.tar.gz
+30.113.151.27/
+30.113.151.27/30.113.151.27-201908210400.tar.gz
+30.113.151.27/communication.log.2019-08-20-1.gz
+30.113.151.34/
+30.113.151.34/30.113.151.34-201908210400.tar.gz
+30.113.151.34/communication.log.2019-08-20-1.gz
+30.113.151.37/
+30.113.151.37/30.113.151.37-201908210400.tar.gz
+30.113.151.37/communication.log.2019-08-20-1.gz
+
+sent 198,459,586 bytes  received 20,589 bytes  6,300,957.94 bytes/sec
+total size is 3,161,419,302  speedup is 15.93
+2019-08-21 10:00   Finished sync...
+
+
+
+
+2019-08-21 11:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908210400.tar.gz
+30.113.151.13/
+30.113.151.13/30.113.151.13-201908210400.tar.gz
+30.113.151.13/communication.log.2019-08-20-1.gz
+30.113.151.24/
+30.113.151.24/30.113.151.24-201908210400.tar.gz
+30.113.151.24/communication.log.2019-08-20-1.gz
+30.113.151.38/
+30.113.151.38/30.113.151.38-201908210400.tar.gz
+30.113.151.38/communication.log.2019-08-20-1.gz
+30.113.151.40/
+30.113.151.40/30.113.151.40-201908210400.tar.gz
+30.113.151.40/communication.log.2019-08-20-1.gz
+
+sent 275,266,972 bytes  received 19,698 bytes  6,633,413.73 bytes/sec
+total size is 3,449,430,363  speedup is 12.53
+2019-08-21 11:00   Finished sync...
+
+
+
+
+2019-08-21 12:00   Start sync......
+sending incremental file list
+30.113.151.1/
+30.113.151.1/30.113.151.1-201908210400.tar.gz
+30.113.151.1/communication.log.2019-08-20-1.gz
+30.113.151.17/
+30.113.151.17/30.113.151.17-201908210400.tar.gz
+30.113.151.17/communication.log.2019-08-20-1.gz
+30.113.151.20/
+30.113.151.20/30.113.151.20-201908210400.tar.gz
+30.113.151.20/communication.log.2019-08-20-1.gz
+30.113.151.3/
+30.113.151.3/30.113.151.3-201908210400.tar.gz
+30.113.151.3/communication.log.2019-08-20-1.gz
+30.113.151.31/
+30.113.151.31/30.113.151.31-201908210400.tar.gz
+30.113.151.33/
+30.113.151.33/30.113.151.33-201908210400.tar.gz
+30.113.151.33/communication.log.2019-08-20-1.gz
+
+sent 268,344,383 bytes  received 46,839 bytes  6,467,258.36 bytes/sec
+total size is 3,730,418,987  speedup is 13.90
+2019-08-21 12:00   Finished sync...
+
+
+
+
+2019-08-21 13:00   Start sync......
+sending incremental file list
+30.113.151.25/
+30.113.151.25/30.113.151.25-201908210400.tar.gz
+30.113.151.25/communication.log.2019-08-20-1.gz
+30.113.151.31/
+30.113.151.31/30.113.151.31-201908210400.tar.gz
+30.113.151.31/communication.log.2019-08-20-1.gz
+30.113.151.6/
+30.113.151.6/30.113.151.6-201908210400.tar.gz
+30.113.151.6/communication.log.2019-08-20-1.gz
+30.113.151.9/
+30.113.151.9/30.113.151.9-201908210400.tar.gz
+30.113.151.9/communication.log.2019-08-20-1.gz
+
+sent 234,899,649 bytes  received 27,736 bytes  6,436,366.71 bytes/sec
+total size is 3,980,152,483  speedup is 16.94
+2019-08-21 13:00   Finished sync...
+
+
+
+
+2019-08-21 14:00   Start sync......
+sending incremental file list
+30.113.151.12/
+30.113.151.12/30.113.151.12-201908210400.tar.gz
+30.113.151.12/communication.log.2019-08-20-1.gz
+30.113.151.19/
+30.113.151.19/30.113.151.19-201908210400.tar.gz
+30.113.151.19/communication.log.2019-08-20-1.gz
+30.113.151.35/
+30.113.151.35/30.113.151.35-201908210400.tar.gz
+30.113.151.35/communication.log.2019-08-20-1.gz
+30.113.151.36/
+30.113.151.36/30.113.151.36-201908210400.tar.gz
+
+sent 239,545,774 bytes  received 213 bytes  6,562,903.75 bytes/sec
+total size is 4,227,430,248  speedup is 17.65
+2019-08-21 14:00   Finished sync...
+
+
+
+
+2019-08-21 15:00   Start sync......
+sending incremental file list
+30.113.151.36/
+30.113.151.36/30.113.151.36-201908210400.tar.gz
+30.113.151.36/communication.log.2019-08-20-1.gz
+
+sent 21,313,332 bytes  received 47,872 bytes  3,286,339.08 bytes/sec
+total size is 4,253,735,497  speedup is 199.13
+2019-08-21 15:00   Finished sync...
+
+
+
+
+2019-08-21 16:00   Start sync......
+sending incremental file list
+30.113.151.18/
+30.113.151.18/30.113.151.18-201908210400.tar.gz
+30.113.151.18/communication.log.2019-08-20-1.gz
+30.113.151.29/
+30.113.151.29/30.113.151.29-201908210400.tar.gz
+30.113.151.29/communication.log.2019-08-20-1.gz
+
+sent 132,134,601 bytes  received 142 bytes  6,445,597.22 bytes/sec
+total size is 4,392,169,470  speedup is 33.24
+2019-08-21 16:00   Finished sync...
+
+
+
+
+2019-08-21 17:00   Start sync......
+sending incremental file list
+30.113.151.30/
+30.113.151.30/30.113.151.30-201908210400.tar.gz
+30.113.151.30/communication.log.2019-08-20-1.gz
+30.113.151.5/
+30.113.151.5/30.113.151.5-201908210400.tar.gz
+30.113.151.5/communication.log.2019-08-20-1.gz
+30.113.151.7/
+30.113.151.7/30.113.151.7-201908210400.tar.gz
+30.113.151.7/communication.log.2019-08-20-1.gz
+
+sent 162,218,004 bytes  received 187 bytes  6,361,497.69 bytes/sec
+total size is 4,559,709,953  speedup is 28.11
+2019-08-21 17:00   Finished sync...
+
+
+
+
+2019-08-21 18:00   Start sync......
+sending incremental file list
+30.113.151.28/
+30.113.151.28/30.113.151.28-201908210400.tar.gz
+30.113.151.28/communication.log.2019-08-20-1.gz
+30.113.151.7/communication.log.2019-08-20-1.gz
+
+sent 77,062,038 bytes  received 14,922 bytes  6,166,156.80 bytes/sec
+total size is 4,643,636,465  speedup is 60.25
+2019-08-21 18:00   Finished sync...
+
+
+
+
+2019-08-21 19:00   Start sync......
+sending incremental file list
+
+sent 6,859 bytes  received 52 bytes  4,607.33 bytes/sec
+total size is 4,643,636,465  speedup is 671,919.62
+2019-08-21 19:00   Finished sync...
+
+
+
+
