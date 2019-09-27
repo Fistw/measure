@@ -10,6 +10,8 @@ echo "quicktron" | sudo -S systemctl stop pinggateway151.service
 tar zcvf /mnt/home/quicktron/mptcp/measure/tmp/`ifconfig wlan0 | grep "inet " | awk '{ print $2}'`-`date +%Y%m%d%H%M`.tar.gz -C /mnt/home/quicktron/mptcp/measure data
 rm -rf /mnt/home/quicktron/mptcp/measure/data/*
 
+find  /mnt/home/quicktron/mptcp/measure/tmp -mtime +5 -name "*.gz" -exec rm -rf {} \;
+
 echo "quicktron" | sudo -S systemctl start iwscan.service
 echo "quicktron" | sudo -S systemctl start conn.service
 echo "quicktron" | sudo -S systemctl start tcpprobe.service
